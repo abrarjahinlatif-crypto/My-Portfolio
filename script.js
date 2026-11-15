@@ -1,7 +1,7 @@
 /* ============ CONFIG: edit these ============ */
 const CONFIG = {
   name: 'Al Latif',
-  email: 'hello@example.com',          // where the contact form sends mail
+  email: 'abrarjahinlatif@gmail.com',          // where the contact form sends mail
   formEndpoint: '',                     // optional Formspree/Formsubmit URL. Empty = opens the visitor's mail app
   feedUrl: 'projects.json',             // the file your automation updates
   feedPollMs: 60000,                    // how often the page checks for new projects
