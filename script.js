@@ -7,10 +7,10 @@ const CONFIG = {
   feedPollMs: 60000,                    // how often the page checks for new projects
   timezone: 'Asia/Dhaka',
   socials: [
-    { name: 'YouTube',     url: 'https://youtube.com/@your-channel' },
-    { name: 'Instagram',   url: 'https://instagram.com/your-handle' },
-    { name: 'GitHub',      url: 'https://github.com/your-username' },
-    { name: 'X / Twitter', url: 'https://x.com/your-handle' }
+    { name: 'YouTube',     url: 'https://www.youtube.com/@serial.hobbyist26' },
+    { name: 'Instagram',   url: 'https://www.instagram.com/al.latif_/' },
+    { name: 'GitHub',      url: 'https://github.com/abrarjahinlatif-crypto' },
+    { name: 'Facebook', url: 'https://www.facebook.com/share/1HnA88nVh4/' }
   ]
 };
 
