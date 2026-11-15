@@ -1,0 +1,35 @@
+{
+  "updated": "2026-11-15T12:00:00Z",
+  "projects": [
+    {
+      "id": "sample-3",
+      "title": "Pocket weather station",
+      "platform": "youtube",
+      "url": "https://youtube.com/",
+      "thumbnail": "",
+      "date": "2026-11-12",
+      "description": "A tiny ESP32 build that tells me whether to bring a jacket.",
+      "tags": ["electronics", "esp32"]
+    },
+    {
+      "id": "sample-2",
+      "title": "I automated my whole desk",
+      "platform": "instagram",
+      "url": "https://instagram.com/",
+      "thumbnail": "",
+      "date": "2026-11-08",
+      "description": "Lights, fans and music, all triggered by one button.",
+      "tags": ["automation"]
+    },
+    {
+      "id": "sample-1",
+      "title": "Retro terminal clock",
+      "platform": "github",
+      "url": "https://github.com/",
+      "thumbnail": "",
+      "date": "2026-11-02",
+      "description": "A glowing green clock for people who miss CRT monitors.",
+      "tags": ["code", "retro"]
+    }
+  ]
+}
