@@ -1,6 +1,18 @@
 {
-  "updated": "2026-11-15T12:00:00Z",
+  "updated": "2026-11-15T12:59:33.794Z",
   "projects": [
+    {
+      "id": "portfolio-20261115",
+      "title": "Portfolio",
+      "platform": "github",
+      "url": "https://www.facebook.com/profile.php?id=61596707125676&rdid=JAFJAeDPIfRyVG8m",
+      "thumbnail": "",
+      "date": "2026-11-15",
+      "description": "This is my portfolio website.",
+      "tags": [
+        "buld-log"
+      ]
+    },
     {
       "id": "sample-3",
       "title": "Pocket weather station",
@@ -9,7 +21,10 @@
       "thumbnail": "",
       "date": "2026-11-12",
       "description": "A tiny ESP32 build that tells me whether to bring a jacket.",
-      "tags": ["electronics", "esp32"]
+      "tags": [
+        "electronics",
+        "esp32"
+      ]
     },
     {
       "id": "sample-2",
@@ -19,7 +34,9 @@
       "thumbnail": "",
       "date": "2026-11-08",
       "description": "Lights, fans and music, all triggered by one button.",
-      "tags": ["automation"]
+      "tags": [
+        "automation"
+      ]
     },
     {
       "id": "sample-1",
@@ -29,7 +46,10 @@
       "thumbnail": "",
       "date": "2026-11-02",
       "description": "A glowing green clock for people who miss CRT monitors.",
-      "tags": ["code", "retro"]
+      "tags": [
+        "code",
+        "retro"
+      ]
     }
   ]
 }
